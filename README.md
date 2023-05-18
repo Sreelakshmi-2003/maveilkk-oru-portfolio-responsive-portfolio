@@ -1,2 +1,2 @@
-# maveilkk-oru-portfolio-responsive-portfolio
+# sample portfolio 
 responsive portfolio website layout
